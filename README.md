@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a personal project**
 
-- 🌱 I’m currently learning **React and Next JS**
+- 🌱 I’m currently learning **VueJs and Nuxt JS**
 
 - 📫 How to reach me **soobratty.as@gmail.com**
 
