@@ -4,12 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nass2912&label=Profile%20views&color=0e75b6&style=flat" alt="nass2912" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nass2912" alt="nass2912" /></a> </p>
+- 🤠 I’m currently Exploring the depths of **JS**
 
-- 🔭 I’m currently working on **a personal project**
 
 - 🌱 I’m currently learning **VueJs and Nuxt JS**
   
-- 🤠 Exploring the depths of **JS**
+- 🔭 I’m currently working on **a personal project**
 
 - 📫 How to reach me **soobratty.as@gmail.com**
 
