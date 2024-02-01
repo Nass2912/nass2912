@@ -8,6 +8,8 @@
 - 🔭 I’m currently working on **a personal project**
 
 - 🌱 I’m currently learning **VueJs and Nuxt JS**
+  
+- 🤠 Exploring the depths of **JS**
 
 - 📫 How to reach me **soobratty.as@gmail.com**
 
